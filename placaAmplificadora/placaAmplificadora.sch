@@ -1,0 +1,689 @@
+EESchema Schematic File Version 5
+EELAYER 36 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 1073 1786
+Connection ~ 1113 1486
+Connection ~ 1467 1486
+Connection ~ 1470 2052
+Connection ~ 1470 2352
+Connection ~ 1471 2351
+Connection ~ 1727 3435
+Connection ~ 1866 1486
+Connection ~ 1866 1786
+Connection ~ 2371 2962
+Connection ~ 2371 3435
+Connection ~ 2411 1286
+Connection ~ 2412 1286
+Connection ~ 3012 1386
+Connection ~ 3166 3535
+Connection ~ 4080 3180
+Connection ~ 4370 3650
+Connection ~ 4374 1598
+Connection ~ 4374 2009
+Connection ~ 4872 1044
+Connection ~ 4872 1598
+Connection ~ 4873 1043
+Connection ~ 4873 1044
+Connection ~ 4915 1598
+Connection ~ 4916 1597
+Connection ~ 5210 3650
+Connection ~ 5607 1698
+Connection ~ 5670 3650
+Wire Wire Line
+	1073 1784 1073 1786
+Wire Wire Line
+	1073 1786 1073 2052
+Wire Wire Line
+	1073 2052 1470 2052
+Wire Wire Line
+	1113 1486 1073 1486
+Wire Wire Line
+	1114 1486 1113 1486
+Wire Wire Line
+	1163 3435 1246 3435
+Wire Wire Line
+	1467 1486 1413 1486
+Wire Wire Line
+	1470 2351 1470 2352
+Wire Wire Line
+	1470 2352 1470 2361
+Wire Wire Line
+	1471 2351 1716 2351
+Wire Wire Line
+	1519 1486 1467 1486
+Wire Wire Line
+	1546 3435 1727 3435
+Wire Wire Line
+	1727 3262 1727 3435
+Wire Wire Line
+	1727 3435 1727 3607
+Wire Wire Line
+	1727 3435 1895 3435
+Wire Wire Line
+	1819 1486 1866 1486
+Wire Wire Line
+	1866 1486 2412 1486
+Wire Wire Line
+	1866 1784 1866 1786
+Wire Wire Line
+	1866 1786 1866 2052
+Wire Wire Line
+	1866 2052 1470 2052
+Wire Wire Line
+	1948 5040 2374 5040
+Wire Wire Line
+	2195 3435 2371 3435
+Wire Wire Line
+	2371 2962 1727 2962
+Wire Wire Line
+	2371 3262 2371 3435
+Wire Wire Line
+	2371 3435 2566 3435
+Wire Wire Line
+	2374 4845 2482 4845
+Wire Wire Line
+	2374 5040 2374 4845
+Wire Wire Line
+	2376 5240 1948 5240
+Wire Wire Line
+	2376 5240 2376 5445
+Wire Wire Line
+	2376 5445 2482 5445
+Wire Wire Line
+	2411 884  2411 1286
+Wire Wire Line
+	2411 1286 2349 1286
+Wire Wire Line
+	2412 1286 2411 1286
+Wire Wire Line
+	2564 884  2411 884 
+Wire Wire Line
+	3012 884  2864 884 
+Wire Wire Line
+	3012 1386 3012 884 
+Wire Wire Line
+	3012 1386 3049 1386
+Wire Wire Line
+	3166 2962 2371 2962
+Wire Wire Line
+	3166 3535 3166 2962
+Wire Wire Line
+	3166 3535 3193 3535
+Wire Wire Line
+	3984 1598 3859 1598
+Wire Wire Line
+	4010 3180 4080 3180
+Wire Wire Line
+	4080 3180 4370 3180
+Wire Wire Line
+	4284 1598 4374 1598
+Wire Wire Line
+	4370 3380 4370 3650
+Wire Wire Line
+	4370 3650 4370 4080
+Wire Wire Line
+	4370 4080 4450 4080
+Wire Wire Line
+	4374 1044 4872 1044
+Wire Wire Line
+	4374 1598 4374 1344
+Wire Wire Line
+	4374 1598 4444 1598
+Wire Wire Line
+	4374 1709 4374 1598
+Wire Wire Line
+	4374 2008 4374 2009
+Wire Wire Line
+	4374 2009 4374 2052
+Wire Wire Line
+	4744 1598 4872 1598
+Wire Wire Line
+	4872 1044 4873 1044
+Wire Wire Line
+	4872 1344 4872 1598
+Wire Wire Line
+	4872 1598 4915 1598
+Wire Wire Line
+	4915 1598 4916 1598
+Wire Wire Line
+	4916 1598 4916 1597
+Wire Wire Line
+	5050 4020 5050 4080
+Wire Wire Line
+	5210 3650 4370 3650
+Wire Wire Line
+	5210 3650 5210 4010
+Wire Wire Line
+	5210 3650 5300 3650
+Wire Wire Line
+	5210 4010 5310 4010
+Wire Wire Line
+	5515 1698 5607 1698
+Wire Wire Line
+	5600 3650 5670 3650
+Wire Wire Line
+	5607 1043 4873 1043
+Wire Wire Line
+	5607 1698 5607 1043
+Wire Wire Line
+	5607 1698 5649 1698
+Wire Wire Line
+	5610 4010 5670 4010
+Wire Wire Line
+	5670 3280 4970 3280
+Wire Wire Line
+	5670 3650 5670 3280
+Wire Wire Line
+	5670 3650 5670 4010
+Wire Notes Line
+	904  604  3401 604 
+Wire Notes Line
+	904  2709 904  604 
+Wire Notes Line
+	904  2800 3402 2800
+Wire Notes Line
+	904  4511 904  2800
+Wire Notes Line
+	3401 604  3401 2709
+Wire Notes Line
+	3401 2709 904  2709
+Wire Notes Line
+	3403 2800 3403 4511
+Wire Notes Line
+	3403 4511 904  4511
+Wire Notes Line
+	3496 604  3496 2709
+Wire Notes Line
+	3496 2709 6063 2709
+Wire Notes Line
+	3496 2801 3496 4511
+Wire Notes Line
+	3496 2801 6063 2801
+Wire Notes Line
+	3497 604  6063 604 
+Wire Notes Line
+	6063 604  6063 2709
+Wire Notes Line
+	6063 2801 6063 4511
+Wire Notes Line
+	6063 4511 3496 4511
+Text Notes 2586 4492 0    50   ~ 0
+31Hz Low pass filter
+Text Notes 2722 2695 0    50   ~ 0
+60Hz notch filter
+Text Notes 5265 2693 0    50   ~ 0
+7Hz High pass filter
+Text Label 1074 1486 1    50   ~ 0
+Entrada
+Text Label 1163 3435 2    50   ~ 0
+HPF
+Text Label 3049 1386 0    50   ~ 0
+Notch1
+Text Label 3193 3535 0    50   ~ 0
+LPF
+Text Label 3710 3180 2    50   ~ 0
+LPF
+Text Label 3859 1598 3    50   ~ 0
+Notch1
+Text Label 5649 1698 0    50   ~ 0
+HPF
+Text GLabel 1716 2351 2    50   Input ~ 0
+GND
+$Comp
+L power:GND #PWR01
+U 1 1 6253BDC0
+P 1467 1786
+F 0 "#PWR01" H 1467 1536 50  0001 C CNN
+F 1 "GND" H 1472 1613 50  0000 C CNN
+F 2 "" H 1467 1786 50  0001 C CNN
+F 3 "" H 1467 1786 50  0001 C CNN
+	1    1467 1786
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 6253DEE6
+P 1470 2361
+F 0 "#PWR02" H 1470 2111 50  0001 C CNN
+F 1 "GND" H 1475 2188 50  0000 C CNN
+F 2 "" H 1470 2361 50  0001 C CNN
+F 3 "" H 1470 2361 50  0001 C CNN
+	1    1470 2361
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 625D58A7
+P 1727 3907
+F 0 "#PWR0103" H 1727 3657 50  0001 C CNN
+F 1 "GND" H 1732 3734 50  0000 C CNN
+F 2 "" H 1727 3907 50  0001 C CNN
+F 3 "" H 1727 3907 50  0001 C CNN
+	1    1727 3907
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 625FEAFF
+P 1948 5140
+F 0 "#PWR0105" H 1948 4890 50  0001 C CNN
+F 1 "GND" V 1953 5012 50  0000 R CNN
+F 2 "" H 1948 5140 50  0001 C CNN
+F 3 "" H 1948 5140 50  0001 C CNN
+	1    1948 5140
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 6254ACA6
+P 2049 1286
+F 0 "#PWR03" H 2049 1036 50  0001 C CNN
+F 1 "GND" V 2054 1158 50  0000 R CNN
+F 2 "" H 2049 1286 50  0001 C CNN
+F 3 "" H 2049 1286 50  0001 C CNN
+	1    2049 1286
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 625D65E3
+P 2566 3635
+F 0 "#PWR0104" H 2566 3385 50  0001 C CNN
+F 1 "GND" V 2571 3507 50  0000 R CNN
+F 2 "" H 2566 3635 50  0001 C CNN
+F 3 "" H 2566 3635 50  0001 C CNN
+	1    2566 3635
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 00000000
+P 4080 3480
+F 0 "#PWR?" H 4080 3230 50  0001 C CNN
+F 1 "GND" H 4080 3305 50  0000 C CNN
+F 2 "" H 4080 3480 50  0001 C CNN
+F 3 "" H 4080 3480 50  0001 C CNN
+	1    4080 3480
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 62572F5D
+P 4374 2052
+F 0 "#PWR0101" H 4374 1802 50  0001 C CNN
+F 1 "GND" H 4379 1879 50  0000 C CNN
+F 2 "" H 4374 2052 50  0001 C CNN
+F 3 "" H 4374 2052 50  0001 C CNN
+	1    4374 2052
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 62586266
+P 4915 1798
+F 0 "#PWR0102" H 4915 1548 50  0001 C CNN
+F 1 "GND" H 4920 1625 50  0000 C CNN
+F 2 "" H 4915 1798 50  0001 C CNN
+F 3 "" H 4915 1798 50  0001 C CNN
+	1    4915 1798
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 00000000
+P 5050 4020
+F 0 "#PWR?" H 5050 3770 50  0001 C CNN
+F 1 "GND" V 5033 3895 50  0000 R CNN
+F 2 "" H 5050 4020 50  0001 C CNN
+F 3 "" H 5050 4020 50  0001 C CNN
+	1    5050 4020
+	-1   0    0    1   
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U1
+U 5 1 62524A03
+P 2582 5145
+F 0 "U1" H 2540 5191 50  0000 L CNN
+F 1 "LM324" H 2540 5100 50  0000 L CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 2532 5245 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2632 5345 50  0001 C CNN
+	5    2582 5145
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 62532E74
+P 1263 1486
+F 0 "R1" V 1470 1486 50  0000 C CNN
+F 1 "R" V 1379 1486 50  0000 C CNN
+F 2 "" V 1193 1486 50  0001 C CNN
+F 3 "~" H 1263 1486 50  0001 C CNN
+	1    1263 1486
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 6258F96F
+P 1396 3435
+F 0 "R8" H 1466 3481 50  0000 L CNN
+F 1 "R" H 1466 3390 50  0000 L CNN
+F 2 "" V 1326 3435 50  0001 C CNN
+F 3 "~" H 1396 3435 50  0001 C CNN
+	1    1396 3435
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 6253401F
+P 1470 2202
+F 0 "R3" H 1540 2248 50  0000 L CNN
+F 1 "R" H 1540 2157 50  0000 L CNN
+F 2 "" V 1400 2202 50  0001 C CNN
+F 3 "~" H 1470 2202 50  0001 C CNN
+	1    1470 2202
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 62533DD1
+P 1669 1486
+F 0 "R2" V 1876 1486 50  0000 C CNN
+F 1 "R" V 1785 1486 50  0000 C CNN
+F 2 "" V 1599 1486 50  0001 C CNN
+F 3 "~" H 1669 1486 50  0001 C CNN
+	1    1669 1486
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R9
+U 1 1 625907F5
+P 1727 3112
+F 0 "R9" H 1797 3158 50  0000 L CNN
+F 1 "R" H 1797 3067 50  0000 L CNN
+F 2 "" V 1657 3112 50  0001 C CNN
+F 3 "~" H 1727 3112 50  0001 C CNN
+	1    1727 3112
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R10
+U 1 1 62590E9D
+P 2045 3435
+F 0 "R10" H 2115 3481 50  0000 L CNN
+F 1 "R" H 2115 3390 50  0000 L CNN
+F 2 "" V 1975 3435 50  0001 C CNN
+F 3 "~" H 2045 3435 50  0001 C CNN
+	1    2045 3435
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 625449B9
+P 2199 1286
+F 0 "R4" V 2406 1286 50  0000 C CNN
+F 1 "R" V 2315 1286 50  0000 C CNN
+F 2 "" V 2129 1286 50  0001 C CNN
+F 3 "~" H 2199 1286 50  0001 C CNN
+	1    2199 1286
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 6254B988
+P 2714 884
+F 0 "R5" V 2921 884 50  0000 C CNN
+F 1 "R" V 2830 884 50  0000 C CNN
+F 2 "" V 2644 884 50  0001 C CNN
+F 3 "~" H 2714 884 50  0001 C CNN
+	1    2714 884 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R11
+U 1 1 00000000
+P 4080 3330
+F 0 "R11" H 4150 3376 50  0000 L CNN
+F 1 "R" H 4150 3285 50  0000 L CNN
+F 2 "" V 4010 3330 50  0001 C CNN
+F 3 "~" H 4080 3330 50  0001 C CNN
+	1    4080 3330
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 62562943
+P 4374 1859
+F 0 "R6" H 4444 1905 50  0000 L CNN
+F 1 "R" H 4444 1814 50  0000 L CNN
+F 2 "" V 4304 1859 50  0001 C CNN
+F 3 "~" H 4374 1859 50  0001 C CNN
+	1    4374 1859
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R7
+U 1 1 62563849
+P 4872 1194
+F 0 "R7" H 4942 1240 50  0000 L CNN
+F 1 "R" H 4942 1149 50  0000 L CNN
+F 2 "" V 4802 1194 50  0001 C CNN
+F 3 "~" H 4872 1194 50  0001 C CNN
+	1    4872 1194
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R13
+U 1 1 00000000
+P 4900 4080
+F 0 "R13" H 4970 4126 50  0000 L CNN
+F 1 "R" H 4970 4035 50  0000 L CNN
+F 2 "" V 4830 4080 50  0001 C CNN
+F 3 "~" H 4900 4080 50  0001 C CNN
+	1    4900 4080
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R12
+U 1 1 00000000
+P 5450 3650
+F 0 "R12" H 5520 3696 50  0000 L CNN
+F 1 "R" H 5520 3605 50  0000 L CNN
+F 2 "" V 5380 3650 50  0001 C CNN
+F 3 "~" H 5450 3650 50  0001 C CNN
+	1    5450 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 6253347A
+P 1073 1636
+F 0 "C1" H 1188 1682 50  0000 L CNN
+F 1 "C" H 1188 1591 50  0000 L CNN
+F 2 "" H 1111 1486 50  0001 C CNN
+F 3 "~" H 1073 1636 50  0001 C CNN
+	1    1073 1636
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 6253662A
+P 1467 1636
+F 0 "C2" H 1582 1682 50  0000 L CNN
+F 1 "C" H 1582 1591 50  0000 L CNN
+F 2 "" H 1505 1486 50  0001 C CNN
+F 3 "~" H 1467 1636 50  0001 C CNN
+	1    1467 1636
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C7
+U 1 1 6259013E
+P 1727 3757
+F 0 "C7" V 1979 3757 50  0000 C CNN
+F 1 "C" V 1888 3757 50  0000 C CNN
+F 2 "" H 1765 3607 50  0001 C CNN
+F 3 "~" H 1727 3757 50  0001 C CNN
+	1    1727 3757
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 62536AE1
+P 1866 1636
+F 0 "C3" H 1981 1682 50  0000 L CNN
+F 1 "C" H 1981 1591 50  0000 L CNN
+F 2 "" H 1904 1486 50  0001 C CNN
+F 3 "~" H 1866 1636 50  0001 C CNN
+	1    1866 1636
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C8
+U 1 1 625915E8
+P 2371 3112
+F 0 "C8" H 2256 3066 50  0000 R CNN
+F 1 "C" H 2256 3157 50  0000 R CNN
+F 2 "" H 2409 2962 50  0001 C CNN
+F 3 "~" H 2371 3112 50  0001 C CNN
+	1    2371 3112
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C9
+U 1 1 00000000
+P 3860 3180
+F 0 "C9" H 3975 3226 50  0000 L CNN
+F 1 "C" H 3975 3135 50  0000 L CNN
+F 2 "" H 3898 3030 50  0001 C CNN
+F 3 "~" H 3860 3180 50  0001 C CNN
+	1    3860 3180
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 62563628
+P 4134 1598
+F 0 "C4" V 4386 1598 50  0000 C CNN
+F 1 "C" V 4295 1598 50  0000 C CNN
+F 2 "" H 4172 1448 50  0001 C CNN
+F 3 "~" H 4134 1598 50  0001 C CNN
+	1    4134 1598
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C6
+U 1 1 62563AA6
+P 4374 1194
+F 0 "C6" H 4259 1148 50  0000 R CNN
+F 1 "C" H 4259 1239 50  0000 R CNN
+F 2 "" H 4412 1044 50  0001 C CNN
+F 3 "~" H 4374 1194 50  0001 C CNN
+	1    4374 1194
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C5
+U 1 1 62563E9D
+P 4594 1598
+F 0 "C5" V 4846 1598 50  0000 C CNN
+F 1 "C" V 4755 1598 50  0000 C CNN
+F 2 "" H 4632 1448 50  0001 C CNN
+F 3 "~" H 4594 1598 50  0001 C CNN
+	1    4594 1598
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C10
+U 1 1 00000000
+P 5460 4010
+F 0 "C10" H 5575 4056 50  0000 L CNN
+F 1 "C" H 5575 3965 50  0000 L CNN
+F 2 "" H 5498 3860 50  0001 C CNN
+F 3 "~" H 5460 4010 50  0001 C CNN
+	1    5460 4010
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_Potentiometer RV1
+U 1 1 00000000
+P 4600 4080
+F 0 "RV1" H 4530 4097 50  0000 R CNN
+F 1 "R_Potentiometer" H 4530 4147 50  0001 R CNN
+F 2 "" H 4600 4080 50  0001 C CNN
+F 3 "~" H 4600 4080 50  0001 C CNN
+	1    4600 4080
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x03 J1
+U 1 1 625FB402
+P 1748 5140
+F 0 "J1" H 1666 4815 50  0000 C CNN
+F 1 "Screw_Terminal_01x03" H 1666 4906 50  0000 C CNN
+F 2 "" H 1748 5140 50  0001 C CNN
+F 3 "~" H 1748 5140 50  0001 C CNN
+	1    1748 5140
+	-1   0    0    1   
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U1
+U 1 1 6252098E
+P 2712 1386
+F 0 "U1" H 2712 1019 50  0000 C CNN
+F 1 "LM324" H 2712 1110 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 2662 1486 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2762 1586 50  0001 C CNN
+	1    2712 1386
+	1    0    0    1   
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U1
+U 3 1 625221DD
+P 2866 3535
+F 0 "U1" H 2866 3168 50  0000 C CNN
+F 1 "LM324" H 2866 3259 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 2816 3635 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2916 3735 50  0001 C CNN
+	3    2866 3535
+	1    0    0    1   
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U1
+U 4 1 625233E1
+P 4670 3280
+F 0 "U1" H 4670 3647 50  0000 C CNN
+F 1 "LM324" H 4670 3556 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 4620 3380 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 4720 3480 50  0001 C CNN
+	4    4670 3280
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U1
+U 2 1 62520B7C
+P 5215 1698
+F 0 "U1" H 5215 1331 50  0000 C CNN
+F 1 "LM324" H 5215 1422 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5165 1798 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 5265 1898 50  0001 C CNN
+	2    5215 1698
+	1    0    0    1   
+$EndComp
+$EndSCHEMATC
